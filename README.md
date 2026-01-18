@@ -1,4 +1,4 @@
-# Proyecto Web – Parque Nacional de Cabañeros
+# Ejercicio – Descubre Nuestro Patrimonio
 
 ## Lugar elegido
 El proyecto está dedicado al Parque Nacional de Cabañeros, situado entre Ciudad Real y Toledo. La web se centra en zonas como las Rañas, la Sierra del Chorito, la Sierra Castellar de los Bueyes y el Boquerón del Estena, mostrando su valor natural, paisajístico y turístico.
@@ -15,10 +15,10 @@ El proyecto está dedicado al Parque Nacional de Cabañeros, situado entre Ciuda
 
 ## Fuentes y licencias de los recursos
 - Imágenes propias o generadas específicamente para el proyecto.  
-- Vídeos externos procedentes de YouTube, utilizados únicamente como referencia visual.  
-- Audio creado para el proyecto o tomado de bancos libres de derechos, si corresponde.  
+- Vídeos externos procedentes de YouTube.  
+- Audio procedente de vídeos de YouTube o tomado de bancos libres de derechos como Pixabay.  
 - Bootstrap 5: framework CSS bajo licencia MIT.  
-- Librerías adicionales como WOW.js o Animate.css, si se utilizan, también son de uso libre.
+- Uso de una plantilla gratuita.
 
 Todos los recursos externos respetan sus licencias originales y se emplean únicamente con fines educativos.
 
@@ -27,14 +27,14 @@ Todos los recursos externos respetan sus licencias originales y se emplean únic
 ### Etiquetas multimedia
 - `<video>` y `<audio>` permiten integrar contenido multimedia sin necesidad de plugins externos.  
   Atributos utilizados:
-  - `controls`: muestra los controles del reproductor  
-  - `autoplay`: reproduce automáticamente  
-  - `muted`: inicia el vídeo sin sonido  
-  - `poster`: imagen previa antes de reproducir  
-  - `track`: añade subtítulos en formato VTT  
+  - `controls`: muestra los controles del reproductor.  
+  - `autoplay`: reproduce automáticamente.  
+  - `muted`: inicia el vídeo sin sonido.  
+  - `poster`: imagen previa antes de reproducir.  
+  - `track`: añade subtítulos en formato VTT.
 
 ### Etiquetas semánticas
-- `<section>`, `<header>`, `<footer>`, `<nav>` mejoran la estructura del documento y la accesibilidad, indicando el propósito de cada parte de la página.
+- `<main>`, `<header>`, `<footer>`, `<nav>` mejoran la estructura del documento y la accesibilidad, indicando el propósito de cada parte de la página.
 
 ### Formularios
 - `<form>` y `<input>` con atributos como `type="email"` o `type="text"` permiten validar datos desde el navegador.  
@@ -48,4 +48,3 @@ Todos los recursos externos respetan sus licencias originales y se emplean únic
 - `class` para aplicar estilos y animaciones.  
 - `id` para vincular elementos con scripts o etiquetas.  
 - Atributos de accesibilidad como `aria-label`, si se utilizan.
-
