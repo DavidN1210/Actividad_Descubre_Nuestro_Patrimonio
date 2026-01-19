@@ -19,6 +19,7 @@ El proyecto está dedicado al Parque Nacional de Cabañeros, situado entre Ciuda
 - Audio procedente de vídeos de YouTube o tomado de bancos libres de derechos como Pixabay.  
 - Bootstrap 5: framework CSS bajo licencia MIT.  
 - Uso de una plantilla gratuita.
+- Uso de herramientas de compresión y redimensionamiento de imagenes
 
 Todos los recursos externos respetan sus licencias originales y se emplean únicamente con fines educativos.
 
