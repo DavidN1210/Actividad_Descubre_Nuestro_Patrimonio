@@ -50,7 +50,7 @@ Todos los recursos externos respetan sus licencias originales y se emplean únic
 - `id` para vincular elementos con scripts o etiquetas.  
 - Atributos de accesibilidad como `aria-label`, si se utilizan.
 
-### Enlace al repositorio y a la págimna
+### Enlaces al repositorio y a la página web
 
 [Repositorio](https://github.com/DavidN1210/Actividad_Descubre_Nuestro_Patrimonio.git)
 
